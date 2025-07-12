@@ -1,5 +1,3 @@
-# About me
-
 #### *Languages*
 
 ![HTML](https://img.shields.io/badge/-HTML-201f22?&logo=HTML5)
@@ -24,6 +22,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-201f22?&logo=Figma)
 
 ---
+
+### *About me*
 
 Hi! I'm a **Junior Full-stack Developer** based in Amsterdam. I'm currently finishing up my studies at **[HackYourFuture](https://github.com/HackYourFuture)**, where I've been learning a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
