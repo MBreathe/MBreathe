@@ -25,7 +25,7 @@
 
 ### *About me*
 
-Hi! I'm a **Junior Full-stack Developer** based in Amsterdam. I'm currently finishing up my studies at **[HackYourFuture](https://github.com/HackYourFuture)**, where I've been learning a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. I'm currently finishing up my studies at **[HackYourFuture](https://github.com/HackYourFuture)**, where I've been learning a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
 Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and I enjoy watching **movies**.  
 
