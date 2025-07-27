@@ -11,6 +11,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-201f22?&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-201f22?&logo=Postman)
+![Prisma](https://img.shields.io/badge/-Prisma-201f22?&logo=Prisma)
 ![React](https://img.shields.io/badge/-React-201f22?&logo=React)
 ![Next.js](https://img.shields.io/badge/-NextJS-201f22?&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-201f22?&logo=Node.js)
