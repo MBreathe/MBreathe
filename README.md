@@ -1,4 +1,4 @@
-#### *Languages*
+#### Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-201f22?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-201f22?&logo=CSS)
@@ -7,11 +7,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-201f22?&logo=mySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-201f22?&logo=MongoDB)
 
-#### *Technologies/tools*
+#### Technologies/tools
 
 ![Git](https://img.shields.io/badge/-Git-201f22?&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-201f22?&logo=Postman)
 ![Prisma](https://img.shields.io/badge/-Prisma-201f22?&logo=Prisma)
+![Mongoose](https://img.shields.io/badge/-Mongoose-201f22?&logo=Mongoose)
 ![React](https://img.shields.io/badge/-React-201f22?&logo=React)
 ![Next.js](https://img.shields.io/badge/-NextJS-201f22?&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-201f22?&logo=Node.js)
@@ -19,12 +20,12 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-201f22?&logo=TailwindCSS)
 ![Jest](https://img.shields.io/badge/-Jest-201f22?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-201f22?&logo=Cypress)
-![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-201f22)
+![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-201f22?&logo=Adobe)
 ![Figma](https://img.shields.io/badge/-Figma-201f22?&logo=Figma)
 
 ---
 
-### *About me*
+## About me
 
 Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. I'm currently finishing up my studies at **[HackYourFuture](https://github.com/HackYourFuture)**, where I've been learning a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
@@ -32,7 +33,7 @@ Outside of coding, you’ll usually find me surrounded by **plants**, behind a c
 
 I'm passionate about working in collaborative teams and am always open to new opportunities to grow and connect with other developers.
 
-### Quick Facts
+## Quick Facts
 
 -  **Currently learning:** React, Next.js, Tailwind
 -  **Bootcamp:** HackYourFuture (almost done)
