@@ -35,8 +35,8 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ## Quick Facts
 
--  **Currently learning:** React, Next.js, Tailwind
--  **Bootcamp:** HackYourFuture (almost done)
+-  **Currently learning:** Next.js, Tailwind
+-  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
 -  **Open to:** Collaboration, mentorship, and new projects
