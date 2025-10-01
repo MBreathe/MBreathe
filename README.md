@@ -27,15 +27,15 @@
 
 ## About me
 
-Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. I'm currently finishing up my studies at **[HackYourFuture](https://github.com/HackYourFuture)**, where I've been learning a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. Fresh out of **[HackYourFuture](https://github.com/HackYourFuture)**, where I've learned a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
-Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and I enjoy watching **movies**.  
+Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.  
 
 I'm passionate about working in collaborative teams and am always open to new opportunities to grow and connect with other developers.
 
 ## Quick Facts
 
--  **Currently learning:** Next.js, Tailwind
+-  **Currently learning:** Next.js, Tailwind, Python, Algorithms
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
