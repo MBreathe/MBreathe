@@ -52,6 +52,15 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ---
 
+## Courses
+
+- [x] *HachYourFuture* 7-month Full-stack Web Development Bootcamp
+- [x] *JetBrains Academy* Introduction to Python
+- [ ] *JetBrains Academy* Mastering Python Libraries – NumPy
+- [ ] *Hyperskill* Computer Algorithms and Data Structures
+
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MBreathe&theme=dark&show_icons=true)
 
 
