@@ -4,6 +4,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-201f22?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-201f22?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-201f22?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-201f22?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-201f22?&logo=mySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-201f22?&logo=MongoDB)
 
@@ -36,7 +37,7 @@
 
 ## About me
 
-Hi! I'm a **Junior Full-stack/Frontend Web Developer** based in Amsterdam. Fresh out of **[HackYourFuture](https://github.com/HackYourFuture)**, where I've learned a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-stack Software Developer** based in Amsterdam. Fresh out of **[HackYourFuture](https://github.com/HackYourFuture)**, where I've learned a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
 Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.  
 
@@ -55,7 +56,9 @@ I'm passionate about working in collaborative teams and am always open to new op
 ## Courses
 
 - [x] *HachYourFuture* 7-month Full-stack Web Development Bootcamp
+- [x] *Codecademy* Learn TypeScript
 - [x] *JetBrains Academy* Introduction to Python
+- [ ] *Codecademy* Learn Java
 - [ ] *JetBrains Academy* Mastering Python Libraries – NumPy
 - [ ] *Hyperskill* Computer Algorithms and Data Structures
 
