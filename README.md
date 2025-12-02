@@ -64,7 +64,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MBreathe&theme=dark&show_icons=true)
+
 
 
 <!--
