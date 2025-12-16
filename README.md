@@ -20,7 +20,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 #### Skills and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,py,css,tailwind,figma,git,github,postman,linux,arch,bash,nodejs,expressjs,nextjs,mysql,mongodb,prisma,jest,cypress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,css,tailwind,figma,git,github,postman,linux,arch,bash,nodejs,expressjs,mysql,mongodb,prisma,jest,cypress&perline=8)](https://skillicons.dev)
 
 ## Courses
 
@@ -32,6 +32,9 @@ I'm passionate about working in collaborative teams and am always open to new op
 - [ ] *Hyperskill* Computer Algorithms and Data Structures
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbreathe&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbreathe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MBreathe/MBreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
