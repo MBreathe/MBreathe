@@ -1,38 +1,3 @@
-#### Languages
-
-![HTML](https://img.shields.io/badge/-HTML-201f22?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-201f22?&logo=CSS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-201f22?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-201f22?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-201f22?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-201f22?&logo=mySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-201f22?&logo=MongoDB)
-
-### Frameworks and Libraries
-
-![React](https://img.shields.io/badge/-React-201f22?&logo=React)
-![Next.js](https://img.shields.io/badge/-NextJS-201f22?&logo=Next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-201f22?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-201f22?&logo=Express.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-201f22?&logo=TailwindCSS)
-![Prisma](https://img.shields.io/badge/-Prisma-201f22?&logo=Prisma)
-![Mongoose](https://img.shields.io/badge/-Mongoose-201f22?&logo=Mongoose)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-201f22?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-201f22?&logo=Cypress)
-
-### Dev Tools
-
-![Git](https://img.shields.io/badge/-Git-201f22?&logo=Git)
-![Postman](https://img.shields.io/badge/-Postman-201f22?&logo=Postman)
-
-#### Design Tools
-
-![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-201f22?&logo=Adobe)
-![Figma](https://img.shields.io/badge/-Figma-201f22?&logo=Figma)
-
 ---
 
 ## About me
@@ -53,6 +18,10 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ---
 
+#### Skills and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,py,css,tailwind,figma,git,github,postman,linux,arch,bash,nodejs,expressjs,nextjs,mysql,mongodb,prisma,jest,cypress&perline=8)](https://skillicons.dev)
+
 ## Courses
 
 - [x] *HachYourFuture* 7-month Full-stack Web Development Bootcamp
@@ -63,9 +32,6 @@ I'm passionate about working in collaborative teams and am always open to new op
 - [ ] *Hyperskill* Computer Algorithms and Data Structures
 
 ---
-
-
-
 
 <!--
 **MBreathe/MBreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
