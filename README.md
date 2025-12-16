@@ -1,5 +1,3 @@
----
-
 ## About me
 
 Hi! I'm a **Junior Full-stack Web Developer** based in Amsterdam. Fresh out of **[HackYourFuture](https://github.com/HackYourFuture)**, where I've learned a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
@@ -18,9 +16,13 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ---
 
-#### Skills and Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,css,tailwind,figma,git,github,postman,linux,arch,bash,nodejs,expressjs,mysql,mongodb,prisma,jest,cypress&perline=8)](https://skillicons.dev)
+<h3 align="center">Skills and Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,css,tailwind,figma,git" />
+    <img src="https://skillicons.dev/icons?i=github,postman,linux,arch,bash,nodejs,expressjs,mysql,mongodb,prisma,jest,cypress" />
+  </a>
+</p>
 
 ## Courses
 
