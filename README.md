@@ -35,8 +35,8 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbreathe&show_icons=true&theme=dark&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbreathe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mbreathe&show_icons=true&theme=dark&hide_title=true)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mbreathe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MBreathe/MBreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
