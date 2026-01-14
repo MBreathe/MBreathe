@@ -29,8 +29,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 - [x] *HachYourFuture* 7-month Full-stack Web Development Bootcamp
 - [x] *Codecademy* Learn TypeScript
 - [x] *JetBrains Academy* Introduction to Python
-- [ ] *Codecademy* Learn Java
-- [ ] *JetBrains Academy* Mastering Python Libraries – NumPy
+- [x] *Codecademy* Learn Java
 - [ ] *Hyperskill* Computer Algorithms and Data Structures
 
 ---
