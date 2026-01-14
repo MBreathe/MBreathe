@@ -19,7 +19,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 <h3 align="center">Skills and Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,css,tailwind,figma,git" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,java,css,tailwind,figma,git" />
     <img src="https://skillicons.dev/icons?i=github,postman,linux,arch,bash,nodejs,expressjs,mysql,mongodb,prisma,jest,cypress" />
   </a>
 </p>
