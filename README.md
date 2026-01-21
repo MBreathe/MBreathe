@@ -24,6 +24,10 @@ I'm passionate about working in collaborative teams and am always open to new op
   </a>
 </p>
 
+## Contributions
+
+- **Dojo** - *HackYourFuture*
+
 ## Courses
 
 - [x] *HachYourFuture* 7-month Full-stack Web Development Bootcamp
