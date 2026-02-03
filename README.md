@@ -19,8 +19,8 @@ I'm passionate about working in collaborative teams and am always open to new op
 <h3 align="center">Skills and Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,py,java,css,tailwind,figma,git" />
-    <img src="https://skillicons.dev/icons?i=github,postman,linux,arch,bash,nodejs,expressjs,mysql,mongodb,prisma,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py,java,html,css,tailwind,figma,git" />
+    <img src="https://skillicons.dev/icons?i=github,postman,linux,arch,bash,nodejs,expressjs,mysql,postgresql,mongodb,prisma,jest,cypress" />
   </a>
 </p>
 
@@ -41,18 +41,3 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mbreathe&show_icons=true&theme=dark&hide_title=true)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mbreathe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**MBreathe/MBreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
