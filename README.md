@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm a **Junior Full-stack Web Developer** based in Amsterdam. Fresh out of **[HackYourFuture](https://github.com/HackYourFuture)**, where I've learned a lot about modern web development. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-stack Developer** based in Amsterdam. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
 Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.  
 
@@ -8,7 +8,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ## Quick Facts
 
--  **Currently learning:** Next.js, Python, Java, OOP, Computer Science/Data Structures & Algorithms, Linux
+-  **Currently learning:** Rust, Next.js, Django, OOP, Computer Science/Data Structures & Algorithms, Linux
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
@@ -19,8 +19,8 @@ I'm passionate about working in collaborative teams and am always open to new op
 <h3 align="center">Skills and Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py,java,html,css,tailwind,figma,git" />
-    <img src="https://skillicons.dev/icons?i=github,postman,linux,arch,bash,nodejs,expressjs,mysql,postgresql,mongodb,prisma,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,vite,react,nextjs,django,html,css,tailwind,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=postman,vim,linux,arch,bash,nodejs,expressjs,docker,mysql,postgresql,mongodb,prisma,jest,cypress" />
   </a>
 </p>
 
