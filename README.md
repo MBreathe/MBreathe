@@ -8,7 +8,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ## Quick Facts
 
--  **Currently learning:** Rust, Next.js, Django, OOP, Computer Science/Data Structures & Algorithms, Linux
+-  **Currently learning:** Rust, Next.js, Django, Computer Science/Data Structures & Algorithms, Linux
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
