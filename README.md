@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm a **Junior Full-stack Developer** based in Amsterdam. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
 
 Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.  
 
@@ -8,7 +8,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ## Quick Facts
 
--  **Currently learning:** Rust, Next.js, Django, Computer Science/Data Structures & Algorithms, Linux
+-  **Currently learning:** Rust, Computer Science/Data Structures & Algorithms
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
@@ -35,7 +35,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 - [x] *Codecademy* Learn TypeScript
 - [x] *JetBrains Academy* Introduction to Python
 - [x] *Codecademy* Learn Java
-- [ ] *Hyperskill* (66%) Computer Algorithms and Data Structures 
+- [ ] *Hyperskill* (78%) Computer Algorithms and Data Structures
 
 ---
 
