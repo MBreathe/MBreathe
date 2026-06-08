@@ -35,7 +35,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 - [x] *Codecademy* Learn TypeScript
 - [x] *JetBrains Academy* Introduction to Python
 - [x] *Codecademy* Learn Java
-- [ ] *Hyperskill* (78%) Computer Algorithms and Data Structures
+- [ ] *Hyperskill* (91%) Computer Algorithms and Data Structures
 
 ---
 
