@@ -1,14 +1,15 @@
 ## About me
 
-Hi! I'm a **Junior Full-stack Engineer** based in Amsterdam. I love building things that make a difference and am always eager to learn new technologies and tackle fresh challenges.
+Hi! I'm a **Junior Full-Stack Developer** based in Amsterdam, currently working at **Amdax**, where I build internal tools using Django, Celery, and Next.js. I love owning projects end-to-end and picking up new technologies fast, whether that's on the job or in my own time.
 
-Outside of coding, you’ll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.  
+Outside of coding, you'll usually find me surrounded by **plants**, behind a camera capturing moments, or on the court playing **badminton**/**volleyball**. I'm also a big fan of **music**, **video games**, and enjoy watching **movies**.
 
 I'm passionate about working in collaborative teams and am always open to new opportunities to grow and connect with other developers.
 
+
 ## Quick Facts
 
--  **Currently learning:** Rust
+-  **Currently:** Junior Full-Stack Developer Intern @Amdax
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
@@ -23,6 +24,10 @@ I'm passionate about working in collaborative teams and am always open to new op
     <img src="https://skillicons.dev/icons?i=postman,vim,linux,arch,bash,nodejs,expressjs,docker,mysql,postgresql,mongodb,prisma,jest,cypress" />
   </a>
 </p>
+
+## Featured Projects
+- [**Rust Expense Tracker**](https://github.com/MBreathe/rust-expense-tracker) — full CRUD expense-tracking API with JWT auth, reporting endpoints, and a full integration test suite, built to learn Rust deeply
+- [**Quote Break**](https://c52a.hyf.dev) — full-stack social/blog app built with a 5-person team; led PR reviews and UI/UX design, architected the MongoDB/Prisma data layer
 
 ## Contributions
 
