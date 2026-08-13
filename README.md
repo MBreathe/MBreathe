@@ -26,8 +26,12 @@ I'm passionate about working in collaborative teams and am always open to new op
 </p>
 
 ## Featured Projects
-- [**Rust Expense Tracker**](https://github.com/MBreathe/rust-expense-tracker) — full CRUD expense-tracking API with JWT auth, reporting endpoints, and a full integration test suite, built to learn Rust deeply
-- [**Quote Break**](https://c52a.hyf.dev) — full-stack social/blog app built with a 5-person team; led PR reviews and UI/UX design, architected the MongoDB/Prisma data layer
+
+- **Periodic Statements** - internal module redesigning statement generation from per-contract to per-person; built PDF layout from scratch extending the company's WeasyPrint tooling. Django, PostgreSQL, Celery, Microsoft Entra auth; Next.js frontend with Auth0.
+
+- **Order Dashboard** - real-time dashboard replacing a manual spreadsheet for a 5+ person Operations team; designed the data model and API to track live orders and flag exceptions. Django, Celery, PostgreSQL, Microsoft Entra; Next.js, Auth0.
+
+- **Quote Break** - full-stack social/blog app built with a 5-person team; led PR reviews and UI/UX design, architected the MongoDB/Prisma data layer.
 
 ## Contributions
 
