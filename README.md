@@ -9,7 +9,7 @@ I'm passionate about working in collaborative teams and am always open to new op
 
 ## Quick Facts
 
--  **Currently:** Junior Full-Stack Developer Intern @Amdax
+-  **Currently:** Open to work
 -  **Bootcamp:** HackYourFuture
 -  **Location:** Amsterdam
 -  **Hobbies:** Plants, photography, badminton, volleyball, music, video games, movies
